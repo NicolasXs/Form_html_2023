@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido pelo Matheus Battisti - Hora de Codar, 
 <br>
 
 <p align="center">
-  <img alt="img do formulário" src=".github/preview.jpg" width="100%">
+  <img alt="img do formulário" src="https://user-images.githubusercontent.com/83989537/211695146-f831a777-9f24-4ece-ad05-4d29d36c43b3.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
