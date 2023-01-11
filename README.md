@@ -44,7 +44,7 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Matheus Battisti - Hora de Codar :wave: [Participe da nossa comunidade!](https://discord.gg/Veq4mvsWwk)
+Feito com Matheus Battisti - Hora de Codar :wave: [Participe da nossa comunidade!](https://discord.gg/Veq4mvsWwk)
 Footer
 © 2023 GitHub, Inc.
 Footer navigation
